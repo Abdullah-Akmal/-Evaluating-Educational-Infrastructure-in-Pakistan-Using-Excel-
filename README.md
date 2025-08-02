@@ -16,6 +16,14 @@ Pakistan’s education system faces significant disparities in enrollment, infra
 
 ---
 
+## Tools & Technologies
+
+- Microsoft Excel: Core tool for data cleaning, pivot tables, and dashboard visuals.
+- Pivot Tables/Charts: For dynamic visual analysis by district, type, and gender.
+- Manual Cleaning: Invalid or extreme values converted to NULL or 0.
+  
+---
+
 ## Data Sources
 
 Ministry of Education – National School Survey Dataset
@@ -70,14 +78,6 @@ Ministry of Education – National School Survey Dataset
 - Water Access: Provide filtration units or boreholes.
 - Medium of Instruction: Train teachers and supply resources for bilingual/English instruction.
 - Data Culture: Improve regular data collection and visualization to inform decisions.
-
----
-
-## Tools & Technologies
-
-- Microsoft Excel: Core tool for data cleaning, pivot tables, and dashboard visuals.
-- Pivot Tables/Charts: For dynamic visual analysis by district, type, and gender.
-- Manual Cleaning: Invalid or extreme values converted to NULL or 0.
 
 ---
 
