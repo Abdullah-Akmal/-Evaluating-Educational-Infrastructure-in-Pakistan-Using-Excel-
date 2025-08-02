@@ -1,6 +1,7 @@
-# -Evaluating-Educational-Infrastructure-in-Pakistan-Using-Excel-
+# Evaluating-Educational-Infrastructure-in-Pakistan-Using-Excel-
 
-This Excel project delivers a comprehensive data analysis solution for the Ministry of Education, Pakistan. It focuses on enrollment distribution, school functionality, urban-rural disparity, medium of instruction, and infrastructure gaps across various districts. The insights aim to support data-driven policy reforms for improving school conditions, equity, and educational outcomes nationwide.
+## Problem Statement
+Pakistan’s education system faces significant disparities in enrollment, infrastructure, and resource allocation across districts, especially between urban and rural areas. Policymakers often lack access to granular, data-driven insights that highlight these gaps. This project addresses the need for a comprehensive analysis of school-level data from the National School Survey to identify patterns in gender-wise enrollment, infrastructure availability (toilets, electricity, boundary walls, water, security), and operational characteristics such as shifts and medium of instruction. By leveraging Microsoft Excel for data cleaning, analysis, and dashboarding, the project provides actionable insights to support equitable, informed policy decisions aimed at improving access to quality education nationwide.
 
 ---
 
